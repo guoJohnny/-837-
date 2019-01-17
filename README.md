@@ -3,7 +3,7 @@
 摘要 ： 对自己复习哈尔滨工业大学网络与空间安全专业课程资料的整理与分享。
 ---
 # 更新内容
-　2019-1-17 ：决定将PDF、课件通过百度网盘分享，减少 Github 仓库体积。链接地址：https://pan.baidu.com/s/1zjV8fXbviijzKPgyRNmMdQ 提取码：zufo 
+　2019-1-17 ：决定将PDF、课件通过百度网盘分享，减少 Github 仓库体积。[百度网盘地址](https://pan.baidu.com/s/1zjV8fXbviijzKPgyRNmMdQ) 提取码：zufo 
 
 
 # 项目地址
