@@ -3,6 +3,7 @@
 摘要 ： 对HIT网络空间安全考研专业课资料的整理与分享。
 ---
 # 更新内容
+2020-6-18 ：增加[2020年哈尔滨工业大学网络空间安全专业总分第一名经验贴](http://www.cskaoyan.com/thread-659558-1-2.html)    
 2020-6-07 ：增加武汉大学信息安全课程试卷        
 2020-3-22 ：增加 [哈工大密码学课件仓库](https://github.com/YuZhang/crypto2014) 、[作业解答仓库](https://github.com/1160300315/cryptography-)   
 2020-1-29 ：外网下载困难用户请访问：https://coding.net/u/GuoJohnny/p/HIT-837/git    
