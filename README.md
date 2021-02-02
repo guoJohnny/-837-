@@ -4,7 +4,8 @@
 ---
 
 # 更新内容
-2021-1-28 ：一些复试资料，链接: https://pan.baidu.com/s/1IiPv7GfcLoH3xbafZYj5lA 提取码: hqdu   
+
+2021-2-2 ：外网下载困难用户请访问：https://guojohnny.coding.net/public/HIT-837/HIT-837/git/files    
 2021-1-06 ：修改考纲，网络安全考纲新增最近邻分类算法、贝叶斯分类算法需重点关注  
 2020-12-29 ：看完 README 找不到国内下载地址的，这边建议不要考研。   
 2020-12-29 ：增加 2021 年哈尔滨工业大学 837 真题回忆版，感谢 LXK 同学的支持。  
@@ -13,7 +14,7 @@
 2020-6-18 ：增加[2020年哈尔滨工业大学网络空间安全专业总分第一名经验贴](http://www.cskaoyan.com/thread-659558-1-2.html)    
 2020-6-07 ：增加武汉大学信息安全课程试卷        
 2020-3-22 ：增加 [哈工大密码学课件仓库](https://github.com/YuZhang/crypto2014) 、[作业解答仓库](https://github.com/1160300315/cryptography-)   
-2020-1-29 ：外网下载困难用户请访问：https://guojohnny.coding.net/p/HIT-837/d/HIT-837/git    
+2020-1-29 ：外网下载困难用户请访问：https://guojohnny.coding.net/public/HIT-837/HIT-837/git/files   
 2020-1-21 ：增加网络安全部分字符串匹配算法课件   
 2020-1-20 ：增加 2020 年研究生入学考试 837 试卷（-837-/信息安全导论/哈尔滨工业大学信息安全导论试卷/）  
 2019-8-19 ：增加网络安全思维导图      
